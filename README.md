@@ -1,1 +1,1 @@
-Learn java beginner
+Learn basic java
